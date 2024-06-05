@@ -1,0 +1,6 @@
+@Apteka_HostAddress = http://localhost:5143
+
+GET {{Apteka_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
